@@ -21,4 +21,4 @@ A robust application for importing and exporting data across multiple database s
 ## ⚙️ Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/cross-database-import-export.git
+   git clone https://github.com/adewoleoluwajuwon/cross-database-import-export.git
